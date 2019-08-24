@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 cAdd newtest test python
+=======
+cAdd newtest test python
+>>>>>>> f18be42713a134f32faafe38dd27e2896c2b278d
 Ghgjhgjhghj
